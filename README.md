@@ -1,1 +1,1 @@
-# Spring Framework 6, Spring Boot 3, Java 17, JPA 3, lombok
+# Spring Framework 6, Spring Boot 3, Java 17, JPA 3, Lombok
